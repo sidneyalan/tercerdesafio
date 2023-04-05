@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Producto prueba 1 - Modificado",
+		"description": "Este es un producto de prueba",
+		"price": 58000,
+		"thumbnail": "sin imagen",
+		"code": "CD023",
+		"stock": 5,
+		"id": 1
+	},
+	{
+		"title": "Producto prueba 2",
+		"description": "Este es un producto de prueba",
+		"price": 45870,
+		"thumbnail": "sin imagen",
+		"code": "CD024",
+		"stock": 5,
+		"id": 2
+	}
+]
