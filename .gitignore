@@ -1,3 +1,4 @@
+#ARCHIVOS PARA OCULTAR
 clase4.js
 ejemplo.js
 ejemplo.txt
@@ -12,12 +13,19 @@ package.json
 practica.js
 Desafio1.js
 ProducManager.js
-old
-node_modules
-/old
-/node_modules
-/servidorExpress
-
+products.json
+README.md
+index.js
 .log
 .lock
 .tmp
+
+
+#CARPETAS PARA OCULTAR
+old
+node_modules
+servidorExpress/node_modules
+/old
+/node_modules
+/servidorExpress/node_modules
+

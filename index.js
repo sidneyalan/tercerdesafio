@@ -127,7 +127,6 @@ constructor(path){
 
 const manager = new ProductManager('./products.json')
 
-/
 console.log(await manager.getProducts())
 
 
