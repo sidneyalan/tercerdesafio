@@ -1,7 +1,4 @@
 import fs from 'fs';
-//import ProductManager from './ProductManager.js';
-
-
 
 class ProductManager {
     
