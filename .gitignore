@@ -13,19 +13,17 @@ package.json
 practica.js
 Desafio1.js
 ProducManager.js
-products.json
 README.md
 index.js
 .log
 .lock
 .tmp
-
-
+ProductManager.js
 #CARPETAS PARA OCULTAR
 old
 node_modules
-servidorExpress/node_modules
+
 /old
 /node_modules
-/servidorExpress/node_modules
+/node_modules
 
