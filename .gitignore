@@ -1,4 +1,3 @@
-#ARCHIVOS PARA OCULTAR
 clase4.js
 ejemplo.js
 ejemplo.txt
@@ -19,11 +18,11 @@ index.js
 .lock
 .tmp
 ProductManager.js
-#CARPETAS PARA OCULTAR
 old
 node_modules
 
 /old
 /node_modules
 /node_modules
+**/node_modules
 
